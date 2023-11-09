@@ -1,0 +1,98 @@
+{
+  "family_name": "addady",
+  "birthday_person": {
+    "name": "rami",
+    "age": 60,
+    "birth_year": 1963,
+    "marital_status": "married",
+    "business_owner": true,
+    "work_location": "underground",
+    "children_age": [22, 25],
+    "appearance": "looks younger than his real age",
+    "achievements": ["started a successful business", "diy farmer and gardener"],
+    "political_opinions": "raklobibi",
+    "hobbies": ["Golf", "Reading"],
+    "greeting": "Wishing you a fantastic birthday, {name}!",
+    "bio_elements": {
+      "1963": {
+        "content": "Born!"
+      },
+      "1965": {
+          "content": "nishkav al hamidracha mul hapuer"
+      }
+    }
+  },
+  "family_members": [
+    {
+      "name": "lidia",
+      "greeting": "Sending warm wishes to {name}!",
+      "relationship": "ima"
+    },
+    {
+      "name": "itzhak",
+      "greeting": "Happy birthday, {name}!, I hope you find a way to get out of the basement",
+      "relationship": "aba zal"
+    },
+    {
+      "name": "daniella",
+      "greeting": "mazat tov yekiri",
+      "relationship": "wife"
+    },
+    {
+      "name": "tomer",
+      "greeting": "{name}, you're most average dad in the world",
+      "relationship": "son"
+    },
+    {
+      "name": "dan",
+      "greeting": "glad to back home with you, {name}!, mazal tov",
+      "relationship": "son"
+    },
+    {
+      "name": "nati",
+      "greeting": "Congratulations!!!wish  that you will continue inventing intersting things for your self. improve the compost in the garden and in general  very Good health and life",
+      "relationship": "sister"
+    },
+    {
+      "name": "boaz",
+      "greeting": "generic happy birthday, {name}",
+      "relationship": "gis"
+    },
+    {
+      "name": "noa",
+      "greeting": "generic happy birthday, {name}",
+      "relationship": "nephew"
+    },
+    {
+      "name": "gaya",
+      "greeting": "generic happy birthday, {name}",
+      "relationship": "nephew"
+    },
+    {
+      "name": "ilay",
+      "greeting": "Happy 60th birthday, {name}! May this milestone be a celebration of the incredible journey you've had so far, filled with joy, love, and unforgettable moments. May the years ahead be just as amazing, bringing you more happiness and fulfillment. Cheers to a wonderful cousin and the many adventures yet to come!",
+      "relationship": "nephew"
+    },
+    {
+      "name": "guy",
+      "greeting": "generic mazat tov",
+      "relationship": "brother"
+    },
+    {
+      "name": "yael",
+      "greeting": "generic mazat tov",
+      "relationship": "sister-in-law"
+    },
+    {
+      "name": "hagar",
+      "greeting": "generic happy birthday, {name}",
+      "relationship": "nephew"
+    },
+    {
+      "name": "alon",
+      "greeting": "generic happy birthday, {name}",
+      "relationship": "nephew"
+    }
+  ]
+}
+
