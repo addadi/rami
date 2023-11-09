@@ -29,7 +29,7 @@ class FamilyBirthdayCard:
         bio_element = self.birthday_person.bio_elements.get(str(year))
         if bio_element:
             print(
-                f"{self.birthday_person.name} was {bio_element['age']} years old at {year}. {bio_element['content']}"
+                f"{self.birthday_person.name} was {bio_element['age']} years old at {year}. {bio_element['content']['content']}"
             )
         else:
             last_year = max(int(year) for year in self.birthday_person.bio_elements)
@@ -57,7 +57,7 @@ def parse_args():
     )
     parser.add_argument("--year", type=int, help="Specify the year for bio information")
     parser.add_argument(
-        "-rami", action="store_true", help="Print only the birthday person's data"
+        "--rami", action="store_true", help="Print only the birthday person's data"
     )
     return parser.parse_args()
 
@@ -91,7 +91,6 @@ def main():
     else:
         # Initialize birthday person object dynamically
         birth_year = family_config_data["birthday_person"]["birth_year"]
-        current_year = datetime.datetime.now().year
 
         birthday_person = Person(
             name=family_config_data["birthday_person"]["name"], birth_year=birth_year
@@ -105,7 +104,8 @@ def main():
         birthday_person.bio_elements = {
             str(year): {
                 "content": content,
-                "age": current_year - birth_year - int(year),
+                # "age": current_year - birth_year - int(year),
+                "age": int(year) - birth_year,
             }
             for year, content in family_config_data["birthday_person"]
             .get("bio_elements", {})
