@@ -3,7 +3,7 @@ import random
 
 from family_config import FamilyConfig
 
-__version__ = "0.3"
+__version__ = "0.4"
 
 class Person:
     def __init__(self, name, birth_year):

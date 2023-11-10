@@ -1,0 +1,2 @@
+argparse==1.4.0
+random2==1.0.1
