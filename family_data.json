@@ -11,15 +11,54 @@
     "appearance": "looks younger than his real age",
     "achievements": ["started a successful business", "diy farmer and gardener"],
     "political_opinions": "raklobibi",
-    "hobbies": ["Golf", "Reading"],
+    "hobbies": ["magician", "protests"],
     "greeting": "Wishing you a fantastic birthday, {name}!",
     "bio_elements": {
       "1963": {
         "content": "Born!"
       },
       "1965": {
-          "content": "nishkav al hamidracha mul hapuer"
+          "content": "nishkav al hamidracha mul hasupuer"
+      },
+      "1969": {
+          "content": "started kita alef, gordon school"
+      },
+      "1979": {
+          "content": "singalovski"
+      },
+      "1981": {
+          "content": "tzahal - totchanim, tironom in shomron"
+      },
+      "1982": {
+          "content": "tzahal - totchanim, sivta, meteoralog, then lebanon"
+      },
+      "1984": {
+          "content": "tzahal - moved to comupting unit in ramat aviv (?)"
+      },
+      "1985": {
+          "content": "tadinran marachot miede in givat shmueal as vms operator"
+      },
+      "1986": {
+          "content": "start economics ba stuadies in TAU, moved ramat aviv rented apartment, start job @ tekemm"
+      },
+      "1987": {
+          "content": "picked up by a fishing ship, moved to tel aviv, ivn gvirol, close to kastel" },
+      "1988": {
+          "content": "moved to bnei dan apartment, started working in digital"
+      },
+      "1990": {
+          "content": "moved to givataim"
+      },
+      "1991": {
+          "content": "started crossword business"
+      },
+      "1993": {
+          "content": "moved to herzelia, met danieala"
+      },
+      "1994": {
+          "content": "started activetech"
       }
+
     }
   },
   "family_members": [
@@ -30,7 +69,7 @@
     },
     {
       "name": "itzhak",
-      "greeting": "Happy birthday, {name}!, I hope you find a way to get out of the basement",
+      "greeting": "Happy birthday!, I hope you find a way to get out of the basement",
       "relationship": "aba zal"
     },
     {
@@ -40,12 +79,12 @@
     },
     {
       "name": "tomer",
-      "greeting": "{name}, you're most average dad in the world",
+      "greeting": "you're most average dad in the world",
       "relationship": "son"
     },
     {
       "name": "dan",
-      "greeting": "glad to back home with you, {name}!, mazal tov",
+      "greeting": "glad to back home with you!, mazal tov",
       "relationship": "son"
     },
     {
@@ -55,22 +94,22 @@
     },
     {
       "name": "boaz",
-      "greeting": "generic happy birthday, {name}",
+      "greeting": "generic happy birthday",
       "relationship": "gis"
     },
     {
       "name": "noa",
-      "greeting": "generic happy birthday, {name}",
+      "greeting": "Happy birthday, Rami! I'm eagerly anticipating the entire family gathering for a skiing trip.",
       "relationship": "nephew"
     },
     {
       "name": "gaya",
-      "greeting": "generic happy birthday, {name}",
+      "greeting": "Happy birthday Rami, you're the best, Sixty years strong, and you stand out from the rest.  You share your crypto smarts, making it clear, Talking with you is always a joy, my dear.  Thanks for being patient, kind, and so wise, In sixty years, you've been quite the prize.  Here's to more talks, laughter, and stories untold, Happy birthday, Uncle Rami, worth more than gold!",
       "relationship": "nephew"
     },
     {
       "name": "ilay",
-      "greeting": "Happy 60th birthday, {name}! May this milestone be a celebration of the incredible journey you've had so far, filled with joy, love, and unforgettable moments. May the years ahead be just as amazing, bringing you more happiness and fulfillment. Cheers to a wonderful cousin and the many adventures yet to come!",
+      "greeting": "Happy 60th birthday, May this milestone be a celebration of the incredible journey you've had so far, filled with joy, love, and unforgettable moments. May the years ahead be just as amazing, bringing you more happiness and fulfillment. Cheers to a wonderful cousin and the many adventures yet to come!",
       "relationship": "nephew"
     },
     {
@@ -85,12 +124,12 @@
     },
     {
       "name": "hagar",
-      "greeting": "generic happy birthday, {name}",
+      "greeting": "lo yodaat",
       "relationship": "nephew"
     },
     {
       "name": "alon",
-      "greeting": "generic happy birthday, {name}",
+      "greeting": "generic happy birthday",
       "relationship": "nephew"
     }
   ]
