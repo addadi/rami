@@ -1,137 +1,190 @@
 {
-  "family_name": "addady",
-  "birthday_person": {
-    "name": "rami",
-    "age": 60,
-    "birth_year": 1963,
-    "marital_status": "married",
-    "business_owner": true,
-    "work_location": "underground",
-    "children_age": [23, 25],
-    "appearance": "looks younger than his real age",
-    "achievements": ["started a successful business", "diy farmer and gardener"],
-    "political_opinions": "raklobibi",
-    "hobbies": ["magician", "protests"],
-    "greeting": "Wishing you a fantastic birthday, {name}!",
-    "bio_elements": {
-      "1963": {
-        "content": "Born!"
-      },
-      "1965": {
-          "content": "nishkav al hamidracha mul hasupuer"
-      },
-      "1969": {
-          "content": "started kita alef, gordon school"
-      },
-      "1979": {
-          "content": "singalovski"
-      },
-      "1981": {
-          "content": "tzahal - totchanim, tironom in shomron"
-      },
-      "1982": {
-          "content": "tzahal - totchanim, sivta, meteoralog, then lebanon"
-      },
-      "1984": {
-          "content": "tzahal - moved to comupting unit in ramat aviv (?)"
-      },
-      "1985": {
-          "content": "tadinran marachot miede in givat shmueal as vms operator"
-      },
-      "1986": {
-          "content": "start economics ba stuadies in TAU, moved ramat aviv rented apartment, start job @ tekemm"
-      },
-      "1987": {
-          "content": "picked up by a fishing ship, moved to tel aviv, ivn gvirol, close to kastel" },
-      "1988": {
-          "content": "moved to bnei dan apartment, started working in digital"
-      },
-      "1990": {
-          "content": "moved to givataim"
-      },
-      "1991": {
-          "content": "started crossword business"
-      },
-      "1993": {
-          "content": "moved to herzelia, met danieala"
-      },
-      "1994": {
-          "content": "started activetech"
-      }
-
-    }
-  },
-  "family_members": [
-    {
-      "name": "lidia",
-      "greeting": "Sending warm wishes to {name}!",
-      "relationship": "ima"
+    "family_name": "addady",
+    "birthday_person": {
+        "name": "rami",
+        "age": 60,
+        "birth_year": 1963,
+        "marital_status": "married",
+        "business_owner": true,
+        "work_location": "underground",
+        "children_age": [
+            23,
+            25
+        ],
+        "appearance": "looks younger than his real age",
+        "achievements": [
+            "started a successful business",
+            "diy farmer and gardener"
+        ],
+        "political_opinions": "raklobibi",
+        "hobbies": [
+            "magician",
+            "protests"
+        ],
+        "greeting": "Wishing you a fantastic birthday, {name}!",
+        "bio_elements": {
+            "1963": {
+                "content": "Born!"
+            },
+            "1965": {
+                "content": "nishkav al hamidracha mul hasupuer"
+            },
+            "1969": {
+                "content": "started kita alef, gordon school"
+            },
+            "1979": {
+                "content": "singalovski"
+            },
+            "1981": {
+                "content": "tzahal - totchanim, tironom in shomron"
+            },
+            "1982": {
+                "content": "tzahal - totchanim, sivta, meteoralog, then lebanon"
+            },
+            "1984": {
+                "content": "tzahal - moved to comupting unit in ramat aviv (?)"
+            },
+            "1985": {
+                "content": "tadinran marachot miede in givat shmueal as vms operator"
+            },
+            "1986": {
+                "content": "start economics ba stuadies in TAU, moved ramat aviv rented apartment, start job @ tekemm"
+            },
+            "1987": {
+                "content": "picked up by a fishing ship, moved to tel aviv, ivn gvirol, close to kastel"
+            },
+            "1988": {
+                "content": "moved to bnei dan apartment, started working in digital"
+            },
+            "1990": {
+                "content": "moved to givataim"
+            },
+            "1991": {
+                "content": "started crossword business"
+            },
+            "1993": {
+                "content": "met his amazing wife (Daniela) with whom he got to grow old moved to herzelia"
+            },
+            "1994": {
+                "content": "started Active Tech"
+            },
+            "1995": {
+                "content": "At the time of Rabin's murder, Rami was windsurfing in Sinai"
+            },
+            "1996": {
+                "content": "the magnificent wedding with the love of his heart"
+            },
+            "1997": {
+                "content": "a big trip with his wife in the USA"
+            },
+            "1998": {
+                "content": "Birth of his eldest son and King Tomer!"
+            },
+            "2000": {
+                "content": "birth of his second son Dan!"
+            },
+            "2011": {
+                "content": "Affection and beneficial use of the beloved insect \"black soldier\" (grown fly) begins"
+            },
+            "2012": {
+                "content": "Purchases a bread machine for the first time which changes his life and the life of his family. In addition, that year he began to pass on the legacy and teach his children to windsurf."
+            },
+            "2013": {
+                "content": "celebrates his 50th birthday with his wife at the Caremi Hotel"
+            },
+            "2014": {
+                "content": "adopted the love of his heart - his dog Pushkin"
+            },
+            "2016": {
+                "content": "family trip to the east coast of the United States"
+            },
+            "2019": {
+                "content": "for the first time watching a series with a full length of 7 seasons, after all it is Game of Thrones"
+            },
+            "2020": {
+                "content": "Started entering the ice cream making industry"
+            },
+            "2021": {
+                "content": "buys Tesla"
+            },
+            "2022": {
+                "content": "begins to be interested in unidentified objects \"UFOs\""
+            },
+            "2023": {
+                "content": "separated from his beloved father Yitzhak"
+            }
+        }
     },
-    {
-      "name": "itzhak",
-      "greeting": "Happy birthday!, I hope you find a way to get out of the basement",
-      "relationship": "aba zal"
-    },
-    {
-      "name": "daniella",
-      "greeting": "mazat tov yekiri",
-      "relationship": "wife"
-    },
-    {
-      "name": "tomer",
-      "greeting": "you're most average dad in the world",
-      "relationship": "son"
-    },
-    {
-      "name": "dan",
-      "greeting": "glad to back home with you!, mazal tov",
-      "relationship": "son"
-    },
-    {
-      "name": "nati",
-      "greeting": "Congratulations!!!wish  that you will continue inventing intersting things for your self. improve the compost in the garden and in general  very Good health and life",
-      "relationship": "sister"
-    },
-    {
-      "name": "boaz",
-      "greeting": "generic happy birthday",
-      "relationship": "gis"
-    },
-    {
-      "name": "noa",
-      "greeting": "Happy birthday, Rami! I'm eagerly anticipating the entire family gathering for a skiing trip.",
-      "relationship": "nephew"
-    },
-    {
-      "name": "gaya",
-      "greeting": "Happy birthday Rami, you're the best, Sixty years strong, and you stand out from the rest.  You share your crypto smarts, making it clear, Talking with you is always a joy, my dear.  Thanks for being patient, kind, and so wise, In sixty years, you've been quite the prize.  Here's to more talks, laughter, and stories untold, Happy birthday, Uncle Rami, worth more than gold!",
-      "relationship": "nephew"
-    },
-    {
-      "name": "ilay",
-      "greeting": "Happy 60th birthday, May this milestone be a celebration of the incredible journey you've had so far, filled with joy, love, and unforgettable moments. May the years ahead be just as amazing, bringing you more happiness and fulfillment. Cheers to a wonderful cousin and the many adventures yet to come!",
-      "relationship": "nephew"
-    },
-    {
-      "name": "guy",
-      "greeting": "generic mazat tov",
-      "relationship": "brother"
-    },
-    {
-      "name": "yael",
-      "greeting": "generic mazat tov",
-      "relationship": "sister-in-law"
-    },
-    {
-      "name": "hagar",
-      "greeting": "lo yodaat",
-      "relationship": "nephew"
-    },
-    {
-      "name": "alon",
-      "greeting": "generic happy birthday",
-      "relationship": "nephew"
-    }
-  ]
+    "family_members": [
+        {
+            "name": "lidia",
+            "greeting": "Sending warm wishes to {name}!",
+            "relationship": "ima"
+        },
+        {
+            "name": "itzhak",
+            "greeting": "Happy birthday!, I hope you find a way to get out of the basement",
+            "relationship": "aba zal"
+        },
+        {
+            "name": "daniella",
+            "greeting": "mazat tov yekiri",
+            "relationship": "wife"
+        },
+        {
+            "name": "tomer",
+            "greeting": "you're most average dad in the world",
+            "relationship": "son"
+        },
+        {
+            "name": "dan",
+            "greeting": "glad to back home with you!, mazal tov",
+            "relationship": "son"
+        },
+        {
+            "name": "nati",
+            "greeting": "Congratulations!!!wish  that you will continue inventing intersting things for your self. improve the compost in the garden and in general  very Good health and life",
+            "relationship": "sister"
+        },
+        {
+            "name": "boaz",
+            "greeting": "generic happy birthday",
+            "relationship": "gis"
+        },
+        {
+            "name": "noa",
+            "greeting": "Happy birthday, Rami! I'm eagerly anticipating the entire family gathering for a skiing trip.",
+            "relationship": "nephew"
+        },
+        {
+            "name": "gaya",
+            "greeting": "Happy birthday Rami, you're the best, Sixty years strong, and you stand out from the rest.  You share your crypto smarts, making it clear, Talking with you is always a joy, my dear.  Thanks for being patient, kind, and so wise, In sixty years, you've been quite the prize.  Here's to more talks, laughter, and stories untold, Happy birthday, Uncle Rami, worth more than gold!",
+            "relationship": "nephew"
+        },
+        {
+            "name": "ilay",
+            "greeting": "Happy 60th birthday, May this milestone be a celebration of the incredible journey you've had so far, filled with joy, love, and unforgettable moments. May the years ahead be just as amazing, bringing you more happiness and fulfillment. Cheers to a wonderful cousin and the many adventures yet to come!",
+            "relationship": "nephew"
+        },
+        {
+            "name": "guy",
+            "greeting": "generic mazat tov",
+            "relationship": "brother"
+        },
+        {
+            "name": "yael",
+            "greeting": "generic mazat tov",
+            "relationship": "sister-in-law"
+        },
+        {
+            "name": "hagar",
+            "greeting": "lo yodaat",
+            "relationship": "nephew"
+        },
+        {
+            "name": "alon",
+            "greeting": "generic happy birthday",
+            "relationship": "nephew"
+        }
+    ]
 }
-

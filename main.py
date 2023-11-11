@@ -3,7 +3,7 @@ import random
 
 from family_config import FamilyConfig
 
-__version__ = "0.4"
+__version__ = "0.5"
 
 class Person:
     def __init__(self, name, birth_year):
@@ -83,11 +83,10 @@ def parse_args():
 def print_with_emoji(data, emoji):
     print(f"{emoji} {data}")
 
-
 def print_birthday_person_data(birthday_person):
     emojis = ["<F0><9F><8E><89>", "<F0><9F><8E><82>", "<F0><9F><8E><8A>", "<F0><9F><92><96>"]
 
-    for prop, value in birthday_person.__dict__.items():
+    for prop, value in birthday_person.items():
         print_with_emoji(f"{prop.capitalize()}: {value}", random.choice(emojis))
 
     # Print bio elements
